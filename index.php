@@ -1,5 +1,7 @@
+
 <?php
-echo "Óla, mundo em php!!!";
-echo "Óla, dev!!!";
+echo "ola mundo em php7 do curso!";
+echo "Estudando php para aprender a criar sites e sistemas";
+
 
 ?>
